@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Sw7L43eex8cy6MczWC/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/xT0BKi1TLjmKiu1HGg/giphy.gif" width="200"/>
-  <img src="https://www.canva.com/design/DAFJfizWtrw/BE-44cjM67jQy0B_BYBEuA/watch?utm_content=DAFJfizWtrw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="200"/>
+  <img src="https://www.canva.com/design/DAFJfizWtrw/BE-44cjM67jQy0B_BYBEuA/watchutm_content=DAFJfizWtrw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimburakezdemir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
