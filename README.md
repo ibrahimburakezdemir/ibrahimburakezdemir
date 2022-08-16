@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/Sw7L43eex8cy6MczWC/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/xT0BKi1TLjmKiu1HGg/giphy.gif" width="200"/>
 </div>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/xT0BKi1TLjmKiu1HGg/giphy.gif" width="200"/>
+</div>
 
 ### Hi there 👋
 
