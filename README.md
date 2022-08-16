@@ -12,4 +12,3 @@
 
 - 🔭 I’m currently working on Data Engineering and Science
 - 🌱 I’m currently learning Pyspark, Hadoop, Kafka, Big Data Technologies
-- 💬 Ask me about Python, Java, SQL, Big Data
